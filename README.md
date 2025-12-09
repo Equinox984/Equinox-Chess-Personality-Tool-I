@@ -1,4 +1,4 @@
-# Equinox Chess Personality Tool ♟️
+# Equinøx Chess Personality Tool ♟️
 
 > CLI tool to discover your playing style and get opening recommendations.
 
