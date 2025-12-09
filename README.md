@@ -14,7 +14,7 @@ This Python script analyzes your chess profile based on a 30-question questionna
 The program guides you through a series of tactical and positional questions to calculate your score in the following categories:
 
 - **Tactician:** Focus on combinations and sacrifices.
-- **Positional:** Juego lento, mejora de piezas y estructura.
+- **Positional:** Slow play, improvement of pieces and structure.
 - **Dynamic:** Initiative and imbalances.
 - **Theorist:** Memorization and preparation of openings.
 - **Intuitive:** Pattern recognition and “feeling.”
